@@ -12,7 +12,7 @@ You can find my model in HuggingFace [models][https://huggingface.co/UkrKreuzrit
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mountain-ner
+    git clone https://github.com/UkrKreuzritter/quantum_test/tree/main/Mounts_ROBERTA
     cd mountain-ner
     ```
 2. Install dependencies: Ensure that you have Python 3.8 or later installed. Then, install the required libraries:
